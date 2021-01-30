@@ -7,3 +7,4 @@ Here is a Time Series Decomposition I completed in my Competing Through Business
 - [Extra Graphs for M3 Advanced Graphing Assignment (ipynb)](Extra Graphs for M3 Advanced Graphing Assignment.ipynb)
 
 ![Example graph in Time Decomposition Assignment](pictures/PublicvPrivateConst.jpg)
+-[Link to Pitch Arsenal Work](https://github.com/TJSWLWM/TJSWLWM.github.io/tree/main/PitchArsenals)
