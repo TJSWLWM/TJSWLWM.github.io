@@ -1,5 +1,5 @@
 ---
-layout: default
+Tanner Smith - W&L Class of 2020, W&M MSBA Candidate
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
