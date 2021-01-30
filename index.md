@@ -1,6 +1,6 @@
 ---
-Tanner Smith - W&L Class of 2020, W&M MSBA Candidate
-Prospective Baseball Analyst
+title: Tanner Smith - W&L Class of 2020, W&M MSBA Candidate
+description: Prospective Baseball Analyst
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
