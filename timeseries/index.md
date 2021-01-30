@@ -10,3 +10,5 @@ Here is a Time Series Decomposition I completed in my Competing Through Business
 
 This is a link to the Pitch Arsenal Repository for the work related to that project.
 -[Link to Pitch Arsenal Work](https://github.com/TJSWLWM/TJSWLWM.github.io/tree/main/PitchArsenals)
+
+![Baseball HQ website tutorial](https://img.youtube.com/v1/f67kIwHFOBE/0.jpeg)](http://www.youtube.com/watch?v=f67kIwHFOBE)
